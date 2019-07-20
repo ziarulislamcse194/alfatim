@@ -1,0 +1,60 @@
+D:\proj\BASIS\pro\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.exe.config
+D:\proj\BASIS\pro\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.exe
+D:\proj\BASIS\pro\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.pdb
+D:\proj\BASIS\pro\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csprojAssemblyReference.cache
+D:\proj\BASIS\pro\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.StockManagement.resources
+D:\proj\BASIS\pro\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.Properties.Resources.resources
+D:\proj\BASIS\pro\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csproj.GenerateResource.cache
+D:\proj\BASIS\pro\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csproj.CoreCompileInputs.cache
+D:\proj\BASIS\pro\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.exe
+D:\proj\BASIS\pro\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.pdb
+C:\Users\Web App Develop .Net\Desktop\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.exe
+C:\Users\Web App Develop .Net\Desktop\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.pdb
+C:\Users\Web App Develop .Net\Desktop\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.StockManagement.resources
+C:\Users\Web App Develop .Net\Desktop\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\Desktop\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.exe
+C:\Users\Web App Develop .Net\Desktop\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.pdb
+D:\proj\BASIS\pro\New folder\New folder\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.exe.config
+D:\proj\BASIS\pro\New folder\New folder\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.exe
+D:\proj\BASIS\pro\New folder\New folder\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.pdb
+D:\proj\BASIS\pro\New folder\New folder\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csprojAssemblyReference.cache
+D:\proj\BASIS\pro\New folder\New folder\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.StockManagement.resources
+D:\proj\BASIS\pro\New folder\New folder\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.Properties.Resources.resources
+D:\proj\BASIS\pro\New folder\New folder\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csproj.GenerateResource.cache
+D:\proj\BASIS\pro\New folder\New folder\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csproj.CoreCompileInputs.cache
+D:\proj\BASIS\pro\New folder\New folder\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.exe
+D:\proj\BASIS\pro\New folder\New folder\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.pdb
+F:\New folder\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.exe.config
+F:\New folder\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.exe
+F:\New folder\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.pdb
+F:\New folder\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csprojAssemblyReference.cache
+F:\New folder\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.StockManagement.resources
+F:\New folder\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.Properties.Resources.resources
+F:\New folder\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csproj.GenerateResource.cache
+F:\New folder\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csproj.CoreCompileInputs.cache
+F:\New folder\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.exe
+F:\New folder\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.pdb
+C:\Users\Shiju-PC\Desktop\New folder\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.exe.config
+C:\Users\Shiju-PC\Desktop\New folder\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.exe
+C:\Users\Shiju-PC\Desktop\New folder\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.pdb
+C:\Users\Shiju-PC\Desktop\New folder\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csprojAssemblyReference.cache
+C:\Users\Shiju-PC\Desktop\New folder\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.StockManagement.resources
+C:\Users\Shiju-PC\Desktop\New folder\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.Properties.Resources.resources
+C:\Users\Shiju-PC\Desktop\New folder\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csproj.GenerateResource.cache
+C:\Users\Shiju-PC\Desktop\New folder\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\Shiju-PC\Desktop\New folder\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.exe
+C:\Users\Shiju-PC\Desktop\New folder\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.pdb
+F:\BITM Project\18th (project)\Alfa\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.exe.config
+F:\BITM Project\18th (project)\Alfa\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.exe
+F:\BITM Project\18th (project)\Alfa\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.pdb
+F:\BITM Project\18th (project)\Alfa\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csprojAssemblyReference.cache
+F:\BITM Project\18th (project)\Alfa\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.StockManagement.resources
+F:\BITM Project\18th (project)\Alfa\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.Properties.Resources.resources
+F:\BITM Project\18th (project)\Alfa\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csproj.GenerateResource.cache
+F:\BITM Project\18th (project)\Alfa\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csproj.CoreCompileInputs.cache
+F:\BITM Project\18th (project)\Alfa\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.exe
+F:\BITM Project\18th (project)\Alfa\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.pdb
